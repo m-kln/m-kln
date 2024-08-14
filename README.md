@@ -36,7 +36,7 @@
 
 ## Hobbies
 * 📚 **Reading** - Current read: _Algorithms to Live By_ 👾
-* 🌌 **Astrophotography** - Current focus: Capturing the moon's beauty 🌙
+* 🌌 **Astrophotography** - Next goal: Capturing the Orion Nebula 🌙
 * 🔭 **Stargazing** - Most recent observation: Ursa Major Constellation 🐻
 
 <!--
