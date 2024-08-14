@@ -1,4 +1,8 @@
-# Hello World, I'm Mona! 
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmpueHFqbTdhdWdrMm5uZnQxajJnejJ4Ym82bmZyaGptNWJkbWJpbyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/OBzjQIjzgfa20eFZ4Y/giphy.gif" width="1000" height="250" alt="Your GIF Description" /> 
+
+# Hello World, I'm Mona! 🌎
+
+<!--![Stars](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzhpMzk3dmVmbHNlZXhhZDFrMGN2MjhhZmNqNDU3OXM5cmI2NTAzNiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/0TtX2qqpxp3pIafzio/giphy.gif)-->
 
 ## About me
 * 👩‍💻 Software Engineering Co-op student at McGill University
