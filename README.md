@@ -1,8 +1,8 @@
 # Hello World, I'm Mona! 
 
 ## About me
-* Software Engineering student at McGill University
-* Areas of interest: data science, UX design, full-stack development, AI/ML
+* 👩‍💻 Software Engineering Co-op student at McGill University
+* 🔎 Areas of interest: data science, UX design, full-stack development, AI/ML
 
 ## Tech Stack
 
@@ -22,12 +22,18 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Projects
+
+| Project Name | Description | Technologies |
+| ------------ | ----------- | ------------ |
+| [Project1](https://github.com/yourusername/project1) | A cool project | Python, Django |
+| [Project2](https://github.com/yourusername/project2) | Another cool project | React, Node.js |
+
 
 ## Hobbies
-* Reading
-* Astrophotography
-* Stargazing
+* 📚 **Reading** - Current read: _Algorithms to Live By_ 👾
+* 🌌 **Astrophotography** - Current focus: Capturing the moon's beauty 🌙
+* 🔭 **Stargazing** - Most recent observation: Ursa Major Constellation 🐻
 
 <!--
 **m-kln/m-kln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
