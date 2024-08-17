@@ -33,9 +33,11 @@
 
 | Project Name | Description | Technologies | Dates |
 | ------------ | ----------- | ------------ | ------------ |
+| 🐚 [Operating System Shell](https://github.com/m-kln/Mock-OS) | Developed a mock Operating System shell by implementing shell functions, memory management and the filesystem. | C | Winter 2024 |
 | 🏫 [OnCampus](https://github.com/ECSE-428-Group-5-W-2023/OnCampus) | A web app allowing users to share their schedules with their friends, making meeting planning effortless and efficient. | Javascript, React.js, PostgreSQL, Docker, Cypress, Auth0 | Winter 2023 |
 | 🔎 [Cabinet of Curiosities](https://github.com/McGill-ECSE321-Fall2022/project-group-13) | A museum web app providing services to staff and clients, including: museum management, artifact browsing, ticket purchases, and donations. | Java, Vue.js, PostgreSQL, REST API, Spring Boot, UML | Fall 2022 |
-| 🤿 DiveSafe (Private repository) | Diving trip management application providing services such as: trip management, inventory tracking, diving trip planning, and hotel bookings. | Java, JavaFX, SceneBuilder, Gherkin, UML | Winter 2021 |
+| 🤿 DiveSafe (Private repository) | Diving trip management application providing services such as: trip management, inventory tracking, diving trip planning, and hotel bookings. | Java, JavaFX, SceneBuilder, Gherkin, UML | Winter 2022 |
+| ♟ [Chess Game](https://github.com/m-kln/chess-game) | A digital chess game. | Java | Winter 2022 |
 
 
 ## - Hobbies -
