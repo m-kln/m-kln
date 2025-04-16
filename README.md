@@ -32,7 +32,7 @@
 
 | Project Name | Description | Technologies | Dates |
 | ------------ | ----------- | ------------ | ------------ |
-| 🛒 [Fortune Cart](https://github.com/m-kln/Fortune-Cart) | A smart shopping wishlist in a web app. | Python, HTML, CSS | Winter 2025 |
+| 🛒 [Fortune Cart](https://github.com/m-kln/Fortune-Cart) | A smart shopping wishlist in a web app. | Python, Flask, HTML, CSS | Winter 2025 |
 | 🎨 [Image Denoising with FFTs](https://github.com/m-kln/Mock-OS) | Developed Fast Fourier Transforms (FFTs) used for image denoising. | Python | Fall 2024 |
 | 💻 [DNS Client](https://github.com/m-kln/Mock-OS) | A Domain Name System (DNS) client developed using Python sockets to perform various DNS queries. | Python | Fall 2024 |
 | 🐚 [Operating System Shell](https://github.com/m-kln/dns-client) | Developed a mock Operating System shell by implementing shell functions, memory management and the filesystem. | C | Winter 2024 |
