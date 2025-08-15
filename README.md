@@ -4,7 +4,7 @@
 
 ## - About me -
 * 👩‍💻 Software Engineering Co-op student at McGill University
-* 📞 DevOps Intern at MDA Space
+* 📞 Tech Summer Analyst at Morgan Stanley
 * 💸 VP Sponsorship at Promoting Opportunities for Women in Engineering
 * 🤝 Purpose: Help people through innovation and problem-solving
 * 🔎 Areas of interest: data science, scripting, full-stack development, AI/ML
@@ -17,6 +17,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
