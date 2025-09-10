@@ -1,7 +1,8 @@
-# Hello World, I'm Mona! 🌎
+<!--
+# Hello World, I'm Mona! 🌎 -->
 
 <!--![Stars](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzhpMzk3dmVmbHNlZXhhZDFrMGN2MjhhZmNqNDU3OXM5cmI2NTAzNiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/0TtX2qqpxp3pIafzio/giphy.gif)-->
-
+<!--
 ## - About me -
 * 👩‍💻 Software Engineering Co-op student at McGill University
 * 📞 Tech Summer Analyst at Morgan Stanley
@@ -9,7 +10,7 @@
 * 🤝 Purpose: Help people through innovation and problem-solving
 * 🔎 Areas of interest: data science, scripting, full-stack development, AI/ML
 
-## - Tech Stack -
+## - Tech Stack - 
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -49,7 +50,7 @@
 
 ## - Let's connect ! -
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mona-kalaoun/)
-
+-->
 <!--
 **m-kln/m-kln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
